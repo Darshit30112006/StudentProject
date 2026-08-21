@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Problem1808.Controllers.PersonController",
+    "Method": "CreatePerson",
+    "RelativePath": "api/Person",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "person",
+        "Type": "Problem1808.Models.PersonModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
